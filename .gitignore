@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Tools (built from source / cloned)
+tools/rfmix/
+tools/gnomix/
+
+# Data (large files, downloaded separately)
+data/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Plan
+plan.md

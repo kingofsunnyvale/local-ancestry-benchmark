@@ -1,0 +1,17 @@
+[project]
+name = "local-ancestry-benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cyvcf2>=0.32.1",
+    "matplotlib>=3.10.8",
+    "msprime>=1.4.0",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "stdpopsim>=0.3.0",
+    "tspop>=0.0.2",
+]
